@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 1,
+    "title": "COEO / THE HOUSE OF ECHO",
+    "description": "Unwaveringly reliable house stable Top Tonics keep the good stuff coming this October as COEO steps up with an extra vibes four tracker. This is pure and unreserved house joy, music to party to without a care in the world. It's the bouncing drums and happy trumpets that make it so.",
+    "category": "House",
+    "trending": true,
+    "coverImage": "vinyl-1.jpg",
+    "oldPrice": 29.99,
+    "newPrice": 19.99
+  },
+  {
+    "_id": 2,
+    "title": "Enzo CARNIEL / HOUSE OF ECHO",
+    "description": "Wallsdown II: Beyond Cyborgs Techno Inside Us (violet vinyl LP) Homs France",
+    "category": "Techno",
+    "trending": true,
+    "coverImage": "vinyl-2.jpg",
+    "oldPrice": 24.99,
+    "newPrice": 14.99
+  },
+  {
+    "_id": 3,
+    "title": "TITO TENTACULO",
+    "description": "Tito's Orion Express 2Cheezy Crust",
+    "category": "House",
+    "trending": true,
+    "coverImage": "vinyl-3.jpg",
+    "oldPrice": 39.99,
+    "newPrice": 29.99
+  },
+  {
+    "_id": 4,
+    "title": "RASCO",
+    "description": "United Fakes Of America Hip Hop Real Spain",
+    "category": "Hip Hop",
+    "trending": false,
+    "coverImage": "vinyl-4.jpg",
+    "oldPrice": 49.99,
+    "newPrice": 39.99
+  },
+  {
+    "_id": 5,
+    "title": "POOR BOY RAPPERS",
+    "description": "DJ Rap: Early Independent Hip Hop Electro & Disco Rap 1979-83 12 inch Vinyl",
+    "category": "House",
+    "trending": true,
+    "coverImage": "vinyl-5.jpg",
+    "oldPrice": 19.99,
+    "newPrice": 9.99
+  },
+  {
+    "_id": 6,
+    "title": "PURPLE DISCO MACHINE   ",
+    "description": "Purple Disco Machine's third studio album, Paradise, is set to stun dancefloor disco's everywhere. This album features collaborations with artists like Metronomy, Jake Shears, Duke Dumont, Sophie and the Giants, Nothing But Thieves, and more. ",
+    "category": "Disco",
+    "trending": false,
+    "coverImage": "vinyl-6.jpg",
+    "oldPrice": 44.99,
+    "newPrice": 34.99
+  },
+  {
+    "_id": 7,
+    "title": "SXINT CHRIS / ARKIN",
+    "description": "Roaring 20's (red vinyl LP limited to 75 copies) Hip Hop Enterprise Belgium",
+    "category": "Hip Hop",
+    "trending": true,
+    "coverImage": "vinyl-7.jpg",
+    "oldPrice": 59.99,
+    "newPrice": 49.99
+  },
+  {
+    "_id": 8,
+    "title": "CHEEBA'S REGGAE SOUND BOYS",
+    "description": "Cheeba's Reggae Sound Boys kicks off the Reggae 45 Series with a serious nod to Jamaica's golden era, reworking those unmistakable 60s and 70s vibes with a fresh, inventive spin. Think skanking rhythms and basslines so deep they'll rattle your bones, all layered with clever samples and a dash of FX magic.",
+    "category": "Reggae",
+    "trending": true,
+    "coverImage": "vinyl-8.jpg",
+    "oldPrice": 21.99,
+    "newPrice": 16.99
+  },
+  {
+    "_id": 9,
+    "title": "VARIOUS",
+    "description": "Wagram is a powerhouse French label that has put out compilations focused on all manner of genres in the last couple of years. It now looks to the most important techno club in its own capital, Rex, for another outing. This is a legendary place where many a DJ career has blossomed and many a historic techno party has happened",
+    "category": "Techno",
+    "trending": false,
+    "coverImage": "vinyl-9.jpg",
+    "oldPrice": 27.99,
+    "newPrice": 18.99
+  },
+  {
+    "_id": 10,
+    "title": "BROTHER SOUND meets MAX ROMEO",
+    "description": "France and Jamaica collide on this new 12 inches Vinyl from Brother Sound, which is now up to release number three and is managing to maintain the good early standard it set for itself. J.A. legend Max Romeo is in top form on vocals with Brother Sound stepping up for the backing and production.",
+    "category": "Hip Hop",
+    "trending": true,
+    "coverImage": "vinyl-10.jpg",
+    "oldPrice": 14.99,
+    "newPrice": 10.99
+  },
+  {
+    "_id": 11,
+    "title": "PROHIBITED BY LAW REGIMENT",
+    "description": "Marked For Death (violet vinyl LP) Hip Hop Enterprise Belgium",
+    "category": "Hip Hop",
+    "trending": true,
+    "coverImage": "vinyl-11.jpg",
+    "oldPrice": 32.99,
+    "newPrice": 25.99
+  },
+  {
+    "_id": 12,
+    "title": "Jazz On The Moon ",
+    "description": " A modern lunar take on jazz and disco, Jazz On The Moon hears Italian producer Paolo Fedreghini moonwalk backwards through live horns, bass, synth and guitar for a crisply produced six-track EP. Opening with original NASA-issue intercom vocals from the 1968 moon landing, ",
+    "category": "Disco",
+    "trending": true,
+    "coverImage": "vinyl-12.jpg",
+    "oldPrice": 19.99,
+    "newPrice": 9.99
+  },
+  {
+    "_id": 13,
+    "title": "VARIOUS ARTISTS",
+    "description": "Street Born: The Ultimate Guide To Hip Hop MPO France.",
+    "category": "Reggae",
+    "trending": true,
+    "coverImage": "vinyl-13.jpg",
+    "oldPrice": 26.99,
+    "newPrice": 21.99
+  },
+  {
+    "_id": 14,
+    "title": "ROACH MOTEL",
+    "description": "The NightGet Physical Germany",
+    "category": "House",
+    "trending": false,
+    "coverImage": "vinyl-14.jpg",
+    "oldPrice": 34.99,
+    "newPrice": 24.99
+  },
+  {
+    "_id": 15,
+    "title": "Reggae Vibrations",
+    "description": "In the mid-70s, reggae great Dennis Brown was on a creative high with producer Niney propelling him to stardom. However, around this time, he was transitioning back to working with Joe Gibbs, another masterful studio hand who would later cement Brown's superstar status.",
+    "category": "Reggae",
+    "trending": false,
+    "coverImage": "vinyl-15.jpg",
+    "oldPrice": 22.99,
+    "newPrice": 12.99
+  },
+  {
+    "_id": 16,
+    "title": "Reggae Soldier red Vinyl",
+    "description": "A powerful collaboration between Jennifer Barrett, Guru Pope and Aba Ariginal released on a striking red 12 inches Vinyl. The original track blends smooth reggae rhythms with heartfelt lyrics that celebrate strength, resilience and the spirit of the reggae soldier.",
+    "category": "Reggae",
+    "trending": false,
+    "coverImage": "vinyl-16.jpg",
+    "oldPrice": 24.99,
+    "newPrice": 19.99
+  },
+  {
+    "_id": 17,
+    "title": "PRIEST",
+    "description": "Techno Girl translucent purple vinyl 7 inches Vinyl Cleopatra US",
+    "category": "Techno",
+    "trending": true,
+    "coverImage": "vinyl-17.jpg",
+    "oldPrice": 49.99,
+    "newPrice": 39.99
+  },
+  {
+    "_id": 18,
+    "title": "E BONY",
+    "description": "Digital Dawn Industrias Mekanikas Holland",
+    "category": "House",
+    "trending": true,
+    "coverImage": "vinyl-18.jpg",
+    "oldPrice": 18.99,
+    "newPrice": 12.99
+  },
+  {
+    "_id": 19,
+    "title": "PAUL SITTER Hip Hop Delivery (LP)",
+    "description": "Breakbeat Paradise indeed! British breakbeat producer Paul Sitter might as well stand in for Saint Peter at this rate, as we'll happily ascend to the place after death. This new LP, we imagine, is what plays in the background, as we float on upwards: with collaborations with some of the dopest MCs on the planet, such as Craig G, Andy Cooper, Birdapres, Chrome and Dr Syntax.",
+    "category": "Hip Hop",
+    "trending": true,
+    "coverImage": "vinyl-19.jpg",
+    "oldPrice": 35.99,
+    "newPrice": 27.99
+  },
+  {
+    "_id": 20,
+    "title": "CREDIT 00",
+    "description": "Put The Funk Back In 2 Techno 12 inches Vinyl Uncanny Valley Germany",
+    "category": "Techno",
+    "trending": false,
+    "coverImage": "vinyl-20.jpg",
+    "oldPrice": 24.99,
+    "newPrice": 14.99
+  }
+]
