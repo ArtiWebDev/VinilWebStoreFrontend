@@ -10,7 +10,7 @@ import profileAvatar from '../assets/avatar.png'
 import { useState } from 'react'
 import { useAuth } from '../context/AuthContext'
 
-import Logo from '../assets/logo.png'
+import Logo from '../assets/Logo.png'
 
 const NavBar = () => {
   const [isAvatarMenuOpen, setIsAvatarMenuOpen] = useState(false)
