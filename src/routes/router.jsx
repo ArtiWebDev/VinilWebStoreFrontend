@@ -52,8 +52,7 @@ const router = createBrowserRouter([
         path: '/cart',
         element: (
           <PrivetRoute>
-            {' '}
-            <ShoppingCart />{' '}
+            <ShoppingCart />
           </PrivetRoute>
         ),
       },

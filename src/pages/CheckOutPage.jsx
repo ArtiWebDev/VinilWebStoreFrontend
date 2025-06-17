@@ -5,7 +5,7 @@ import Swal from 'sweetalert2'
 import { useState } from 'react'
 import { useAuth } from '../context/AuthContext.jsx'
 import { useCreateOrderMutation } from '../redux/API/order.API.js'
-import { useGetOrderByEmailQuery } from '../redux/API/order.API.js'
+// import { useGetOrderByEmailQuery } from '../redux/API/order.API.js'
 
 import { getImgUrl } from '../utils/getImgUrl.js'
 
@@ -14,7 +14,9 @@ const CheckOutPage = () => {
   const totalPrice = cartItems
     .reduce((acc, item) => acc + item.newPrice, 0)
     .toFixed(2)
+
   const { currentUser } = useAuth()
+
   const {
     register,
     handleSubmit,
@@ -41,11 +43,11 @@ const CheckOutPage = () => {
       totalPrice: totalPrice,
     }
 
-    const {
-      data: orders = [],
-      isLoading,
-      isError,
-    } = useGetOrderByEmailQuery(currentUser.email)
+    // const {
+    //   data: orders = [],
+    //   isLoading,
+    //   isError,
+    // } = useGetOrderByEmailQuery(currentUser.email)
 
     try {
       await createOrder(newOrder).unwrap()
