@@ -63,14 +63,14 @@ const AddProduct = () => {
           <InputField
             label="Title"
             name="title"
-            placeholder="Enter book title"
+            placeholder="Enter plate title"
             register={register}
           />
 
           <InputField
             label="Description"
             name="description"
-            placeholder="Enter book description"
+            placeholder="Enter plate description"
             type="textarea"
             register={register}
           />
